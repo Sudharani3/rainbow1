@@ -1,0 +1,16 @@
+/* body
+{
+   border: 2px solid black;
+   height: 400px;
+   width:400px;
+   position:relative;
+   left:430px;
+   top:100px;
+
+} */
+.btn
+{
+    position:relative;
+    left:600px;
+    top:300px;
+}
